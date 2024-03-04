@@ -1,0 +1,21 @@
+OpenAI response for prompt: generate application of sick leave 
+ *****************************
+
+
+
+Dear [Manager’s Name],
+
+I am writing to inform you that I am unable to come to work today, [date], due to illness. As per company policy, I would like to apply for a sick leave for [number of days], starting today.
+
+I have been experiencing [symptoms] since [date] and have been advised by my doctor to take some rest and recover. I have attached a copy of my medical certificate for your reference.
+
+I understand the importance of my responsibilities at work and I have already informed my colleagues to ensure that my tasks are covered during my absence. I will also ensure that any urgent projects or tasks are taken care of before I leave.
+
+I have also informed my team about my absence and they are aware of my condition. I will make sure to keep them updated on my progress and will resume work as soon as I am fully recovered.
+
+I kindly request for your understanding and approval for my sick leave application. I have been a diligent employee and I have never taken any sick leave in the past year.
+
+Thank you for your consideration and I hope to be back at work soon.
+
+Sincerely,
+[Your Name]
