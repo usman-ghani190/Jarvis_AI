@@ -39,7 +39,7 @@ chatStr = ""
 
 
 def chat(query):
-    openai.api_key = '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'
+    openai.api_key = 'Your OpenApi key'
     global chatStr
     chatStr += f"Usman: {query}\nJarvis: "
     print(chatStr)
@@ -55,7 +55,7 @@ def chat(query):
 
 
 def ai(prompt):
-    openai.api_key = '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'
+    openai.api_key = 'Your OpenApi key'
     text = f"OpenAI response for prompt: {prompt} \n *****************************\n\n"
 
     # prompt = query.lower().split("generate", 1)[-1].strip()
